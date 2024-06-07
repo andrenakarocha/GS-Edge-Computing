@@ -1,9 +1,11 @@
 # Global Solution - Edge Computing 🌊🚨
 
 ## Integrantes 👤
-Caio Suzano Ferreira da Silva: RM 554763
-Lucas Vasquez Silva: RM 555159
-André Nakamatsu Rocha: RM555004 
+<ul>
+<li>Caio Suzano Ferreira da Silva: RM 554763</li>
+<li>Lucas Vasquez Silva: RM 555159</li>
+<li>André Nakamatsu Rocha: RM555004</li> 
+</ul>
 
 ## O Projeto 📃
 <img src="img/projeto.png">
